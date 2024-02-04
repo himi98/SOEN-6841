@@ -4,11 +4,10 @@
 
 **Course:** SOEN 6841 Software Project Management (Winter 2024)
 
-**Journal URL:** [Insert Publicly-accessible Cloud Service URL]
-
 **Week 1:** Jan 28, 2024 -- Feb 03, 2024
 
 **Date:** Feb 03, 2024
+
 
 **Key Concepts Learned:**
 
@@ -52,6 +51,7 @@ o The risks can have both negative and positive consequences, affecting project 
 
 o Some important components in managing and responding to risks are proactive strategies, including avoidance, transfer, mitigation, and acceptance.
 
+
 **Application in Real Projects:**
 
 - Enterprise Resource Planning (ERP) Implementation:
@@ -72,21 +72,25 @@ o Cost and Effort Estimation: Estimating the costs and effort needed for upgradi
 
 o Risk Management: Identifying risks associated with potential disruptions to online transactions, user experience issues during the upgrade, and data migration challenges.
 
+
 **Peer Interactions:**
 
 - I interacted with my project teammates in the last class and we exchanged introductions to get to know each other better.
 
 - Also, we had an online project group meeting to start working on the project. By interacting with my project peers, we brainstormed and managed to come up with a strategy to start with the project.
+  
 
 **Challenges Faced:**
 
 - The concepts were quite straightforward to read and understand.
 
-- An initial challenge related to a clear understanding of the project topic and objective. I cleared it by reaching out to Professor Joumana in person in last class.
+- An initial challenge related to a clear understanding of the project topic and objective. I cleared it by reaching out to Professor Joumana in person in the last class.
+  
 
 **Personal development activities:**
 
 - I participated in one of the CAPS workshops on "Consulting in Management" addressed by panels from leading consulting companies like Accenture, and Deloitte. By attending the workshop, I gained an insight on how Software Engineers can use their technical knowledge and prepare themselves to enter into the world of Management Consulting.
+  
 
 **Goals for the Next Week:**
 
