@@ -4,7 +4,7 @@
 
 **Course:** SOEN 6841 Software Project Management (Winter 2024)
 
-**Week 1:** Jan 28, 2024 -- Feb 03, 2024
+**Week 2:** Jan 28, 2024 -- Feb 03, 2024
 
 **Date:** Feb 03, 2024
 
